@@ -1,6 +1,4 @@
-Put this code in esx_vehicleshop\client\main.lua
-
-
+-- Put this code in esx_vehicleshop\client\main.lua
 
 --- LUCKYWHEEL
 RegisterNetEvent("luckywheel:winCar")
